@@ -7,3 +7,7 @@
 $ ren fluffy.text fire.text
 Renames the file "fluffy" to "fire"
 ```
+
+- [ ] Feed the dog
+- [x] Walk the dog
+- [ ] Brush the dog
